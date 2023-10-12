@@ -1,0 +1,6 @@
+node_modules/
+tls/
+tmp/
+
+.DS_Store
+*.env

@@ -1,0 +1,13 @@
+{
+  "name": "snippetbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "prettier-plugin-go-template": "^0.0.15"
+  }
+}
